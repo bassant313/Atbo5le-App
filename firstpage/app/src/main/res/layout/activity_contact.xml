@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Contact"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  تواصل معنا :  "
+        android:gravity="right"
+        android:layout_marginTop="60dp"
+        android:textColor="@color/items_color"
+        android:textSize="40sp"
+        />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="132dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="130dp"
+        android:text="FACEBOOK"
+        android:background="#3F51B5"
+        android:onClick="browser1"
+        android:textColor="@color/background"
+        android:textAllCaps="false"
+        android:textSize="20sp" />
+
+
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="132dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="TWITTER"
+        android:textAllCaps="false"
+
+        android:textSize="20sp"
+        android:background="#0F81DC"
+        android:onClick="browser3"
+        android:textColor="@color/background"
+
+
+        />
+
+
+
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="@string/البريد"
+        android:textSize="25sp"
+        android:textColor="@color/items_color"
+
+        android:layout_marginTop="50dp"/>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="@string/البريد_الالكتروني"
+        android:textSize="25sp"
+         />
+
+
+</LinearLayout>

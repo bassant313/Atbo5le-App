@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Atbo5ly</string>
+
+
+    <string name="facebook">FACEBOOK</string>
+    <string name="email">EMAIL</string>
+    <string name="twitter">TWITTER</string>
+    <string name="contact">تواصل معنا:</string>
+    <string name="requests">الطلبات:</string>
+
+    <string name="logo">اطبُخلي</string>
+    <string name="username">البريد الالكتروني </string>
+    <string name="password">كلمة المرور</string>
+    <string name="passwordـconfirm">تأكيد كلمة المرور</string>
+    <string name="usernameFIELD">بريدك الإلكتروني </string>
+    <string name="passwordFIELD">إكتب كلمة المرور</string>
+    <string name="Loginbtn">دخول</string>
+    <string name="Signupbtn">تسجيل</string>
+    <string name="regular">عادي</string>
+    <string name="diet">دايت</string>
+    <string name="vege">نباتي</string>
+    <string name="noaccount">ليس لديك حساب؟</string>
+    <string name="signupnow">سجل الآن</string>
+    <string name="signup_username">إسم المستخدم</string>
+    <string name="signup_username_field">إكتب إسم المستخدم</string>
+    <string name="signup_email">البريد الإلكتروني</string>
+    <string name="signup_email_field">إكتب بريدك الإلكتروني</string>
+    <string name="signup_phonenumber">رقم الهاتف</string>
+    <string name="signup_phonenumber_field">إكتب رقم هاتفك</string>
+    <string name="signup_city">المدينة</string>
+    <string name="signup_city_field">إكتب إسم مدينتك</string>
+    <string name="signup_district">المنطقة</string>
+    <string name="signup_district_field">إكتب إسم منطقتك</string>
+    <string name="signup_address">العنوان</string>
+    <string name="signup_address_field">إكتب عنوانك بالتفصيل</string>
+
+    <string name="dish_name">مكرونة بشاميل</string>
+    <string name="dish_desc">صينية مكرونة بشاميل بالبهارات الشرقية و الجبنة الموتزاريلا معمولة من اجود انواع المكرونة </string>
+    <string name="serve_num">تكفي ٥ أفراد</string>
+    <string name="dish_price">٨٠ جنيه</string>
+    <string name="delivery_time">يتم التوصيل في خلال ٢٤ ساعة</string>
+
+    <string name="chief_name">الشيف حسن</string>
+
+    <string name="buy_btn">إشتري</string>
+
+    <string name="العنوان">العنوان:</string>
+    <string name="تفاصيل_العنوان">رقم العمارة، اسم الشارع، المنطقة.</string>
+    <string name="طلبات_خاصة">طلبات خاصة:</string>
+    <string name="رقم_الموبايل">رقم الموبايل:</string>
+    <string name="تفاصل_الطلبات">لو في حاجة معينة عايزها في الأوردر اكتبها هنا.</string>
+    <string name="البريد">أو عن طريق البريد الالكتروني الخاص بينا:</string>
+    <string name="البريد_الالكتروني">otbo5lyapp@gmail.com</string>
+
+
+</resources>

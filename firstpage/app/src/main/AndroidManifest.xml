@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.Atbo5ly">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Atbo5ly"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".check"></activity>
+        <activity android:name=".chef" />
+        <activity android:name=".ard" />
+        <activity android:name=".aklat" />
+        <activity android:name=".activity12" />
+        <activity android:name=".acrtivity11" />
+        <activity android:name=".activity10" />
+        <activity android:name=".Contact" />
+        <activity android:name=".Massages" />
+        <activity android:name=".activity7" />
+        <activity android:name=".activity5" />
+        <activity android:name=".activity6" />
+        <activity android:name=".activity4" />
+        <activity android:name=".activity3" />
+        <activity android:name=".activity2" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

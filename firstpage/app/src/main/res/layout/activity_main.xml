@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/ground"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="اطبُخلي"
+        android:textSize="60sp"
+        android:textColor="@color/button"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  اكـل بيتـي"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/items_color"
+        android:textSize="25sp"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  صحي و نباتي و دايت
+ "
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/items_color"
+        android:textSize="25sp"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text= " اطلـب زي ما انت عايز  "
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/items_color"
+        android:textSize="25sp"
+
+        />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="132dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="130dp"
+        android:text="مستخدم"
+
+        android:background="@color/button"
+        android:textAllCaps="false"
+        android:textSize="20sp" />
+
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="132dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="طباخ"
+        android:textAllCaps="false"
+        android:background="@color/button"
+        android:textSize="20sp"
+
+
+        />
+
+
+
+</LinearLayout>

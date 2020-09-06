@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e67e22</color>
+    <color name="colorPrimaryDark">#e67e22</color>
+    <color name="colorAccent">#000000</color>
+
+
+
+
+
+    <color name="background">#ecf0f1</color>
+    <color name="button">#e67e22</color>
+    <color name="items_color">#000000</color>
+    <color name="hint">#999999</color>
+
+
+    <color name="regular">#2980b9</color>
+    <color name="diet">#8e44ad</color>
+    <color name="vege">#27ae60</color>
+
+
+    <color name="carrotdark">#d35400</color>
+
+</resources>
